@@ -1,0 +1,46 @@
+public static class CharaSE_Vajurilai
+{
+	public const int iCRI_CHARASE_VAJURILA_CUENUM = 10;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_JUMP = 1;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_JUMP_HIGH = 2;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_CHAKUCHI = 3;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_DASH = 4;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_DASHEND = 5;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_KABEPETA = 6;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_KABEKERI = 7;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_TELEPORT_IN = 8;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_TELEPORT_OUT = 9;
+
+	public const int iCRI_CHARASE_VAJURILA_VJ_FOOT = 10;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_CUENUM = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_CUENUM;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_JUMP = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_JUMP;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_JUMP_HIGH = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_JUMP_HIGH;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_CHAKUCHI = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_CHAKUCHI;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_DASH = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_DASH;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_DASHEND = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_DASHEND;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_KABEPETA = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_KABEPETA;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_KABEKERI = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_KABEKERI;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_TELEPORT_IN = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_TELEPORT_IN;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_TELEPORT_OUT = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_VJ_TELEPORT_OUT;
+
+	public const CharaSE_Vajurila CRI_CHARASE_VAJURILA_VJ_FOOT = CharaSE_Vajurila.CRI_CHARASE_VAJURILA_CUENUM;
+}

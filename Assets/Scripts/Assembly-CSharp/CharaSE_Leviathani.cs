@@ -1,0 +1,46 @@
+public static class CharaSE_Leviathani
+{
+	public const int iCRI_CHARASE_LEVIATHAN_CUENUM = 10;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_JUMP = 1;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_JUMP_HIGH = 2;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_CHAKUCHI = 3;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_DASH = 4;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_DASHEND = 5;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_KABEPETA = 6;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_KABEKERI = 7;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_TELEPORT_IN = 8;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_TELEPORT_OUT = 9;
+
+	public const int iCRI_CHARASE_LEVIATHAN_LV_FOOT = 10;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_CUENUM = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_CUENUM;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_JUMP = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_JUMP;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_JUMP_HIGH = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_JUMP_HIGH;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_CHAKUCHI = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_CHAKUCHI;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_DASH = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_DASH;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_DASHEND = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_DASHEND;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_KABEPETA = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_KABEPETA;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_KABEKERI = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_KABEKERI;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_TELEPORT_IN = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_TELEPORT_IN;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_TELEPORT_OUT = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_LV_TELEPORT_OUT;
+
+	public const CharaSE_Leviathan CRI_CHARASE_LEVIATHAN_LV_FOOT = CharaSE_Leviathan.CRI_CHARASE_LEVIATHAN_CUENUM;
+}

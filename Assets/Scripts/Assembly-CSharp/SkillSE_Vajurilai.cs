@@ -1,0 +1,30 @@
+public static class SkillSE_Vajurilai
+{
+	public const int iCRI_SKILLSE_VAJURILA_CUENUM = 6;
+
+	public const int iCRI_SKILLSE_VAJURILA_VJ_RUSH01 = 1;
+
+	public const int iCRI_SKILLSE_VAJURILA_VJ_RUSH02_LG = 2;
+
+	public const int iCRI_SKILLSE_VAJURILA_VJ_RUSH02_STOP = 3;
+
+	public const int iCRI_SKILLSE_VAJURILA_VJ_HOMING01 = 7;
+
+	public const int iCRI_SKILLSE_VAJURILA_VJ_RING01 = 5;
+
+	public const int iCRI_SKILLSE_VAJURILA_VJ_CHARA01 = 9;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_CUENUM = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_CUENUM;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_VJ_RUSH01 = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_VJ_RUSH01;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_VJ_RUSH02_LG = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_VJ_RUSH02_LG;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_VJ_RUSH02_STOP = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_VJ_RUSH02_STOP;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_VJ_HOMING01 = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_VJ_HOMING01;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_VJ_RING01 = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_VJ_RING01;
+
+	public const SkillSE_Vajurila CRI_SKILLSE_VAJURILA_VJ_CHARA01 = SkillSE_Vajurila.CRI_SKILLSE_VAJURILA_VJ_CHARA01;
+}

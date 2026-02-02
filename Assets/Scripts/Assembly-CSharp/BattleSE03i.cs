@@ -1,0 +1,26 @@
+public static class BattleSE03i
+{
+	public const int iCRI_BATTLESE03_CUENUM = 5;
+
+	public const int iCRI_BATTLESE03_BT_CAN = 1;
+
+	public const int iCRI_BATTLESE03_BT_CHAIN01_LP = 2;
+
+	public const int iCRI_BATTLESE03_BT_CHAIN01_STOP = 3;
+
+	public const int iCRI_BATTLESE03_BT_QUAKE01 = 4;
+
+	public const int iCRI_BATTLESE03_BT_CRATE01 = 5;
+
+	public const BattleSE03 CRI_BATTLESE03_CUENUM = BattleSE03.CRI_BATTLESE03_CUENUM;
+
+	public const BattleSE03 CRI_BATTLESE03_BT_CAN = BattleSE03.CRI_BATTLESE03_BT_CAN;
+
+	public const BattleSE03 CRI_BATTLESE03_BT_CHAIN01_LP = BattleSE03.CRI_BATTLESE03_BT_CHAIN01_LP;
+
+	public const BattleSE03 CRI_BATTLESE03_BT_CHAIN01_STOP = BattleSE03.CRI_BATTLESE03_BT_CHAIN01_STOP;
+
+	public const BattleSE03 CRI_BATTLESE03_BT_QUAKE01 = BattleSE03.CRI_BATTLESE03_BT_QUAKE01;
+
+	public const BattleSE03 CRI_BATTLESE03_BT_CRATE01 = BattleSE03.CRI_BATTLESE03_CUENUM;
+}

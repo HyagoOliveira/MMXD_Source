@@ -1,0 +1,8 @@
+public enum BGMe4
+{
+	NONE = 0,
+	CRI_BGME4_CUENUM = 3,
+	CRI_BGME4_BGM_ST_E4 = 3,
+	CRI_BGME4_BGM_SYS_E4H = 7,
+	CRI_BGME4_BGM_SYS_E4H_2 = 8
+}

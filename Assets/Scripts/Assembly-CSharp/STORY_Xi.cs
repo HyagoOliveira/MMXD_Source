@@ -1,0 +1,126 @@
+public static class STORY_Xi
+{
+	public const int iCRI_STORY_X_CUENUM = 30;
+
+	public const int iCRI_STORY_X_S_X_STORY01 = 1;
+
+	public const int iCRI_STORY_X_S_X_STORY02 = 2;
+
+	public const int iCRI_STORY_X_S_X_STORY03 = 3;
+
+	public const int iCRI_STORY_X_S_X_STORY04 = 4;
+
+	public const int iCRI_STORY_X_S_X_STORY05 = 5;
+
+	public const int iCRI_STORY_X_S_X_STORY06 = 6;
+
+	public const int iCRI_STORY_X_S_X_STORY07 = 7;
+
+	public const int iCRI_STORY_X_S_X_STORY08 = 8;
+
+	public const int iCRI_STORY_X_S_X_STORY09 = 9;
+
+	public const int iCRI_STORY_X_S_X_STORY10 = 10;
+
+	public const int iCRI_STORY_X_S_X_STORY11 = 11;
+
+	public const int iCRI_STORY_X_S_X_STORY12 = 12;
+
+	public const int iCRI_STORY_X_S_X_STORY13 = 13;
+
+	public const int iCRI_STORY_X_S_X_STORY14 = 14;
+
+	public const int iCRI_STORY_X_S_X_STORY15 = 15;
+
+	public const int iCRI_STORY_X_S_X_STORY16 = 16;
+
+	public const int iCRI_STORY_X_S_X_STORY17 = 17;
+
+	public const int iCRI_STORY_X_S_X_STORY18 = 18;
+
+	public const int iCRI_STORY_X_S_X_STORY19 = 19;
+
+	public const int iCRI_STORY_X_S_X_STORY20 = 20;
+
+	public const int iCRI_STORY_X_S_X_STORY21 = 21;
+
+	public const int iCRI_STORY_X_S_X_STORY22 = 22;
+
+	public const int iCRI_STORY_X_S_X_STORY23 = 24;
+
+	public const int iCRI_STORY_X_S_X_STORY24 = 25;
+
+	public const int iCRI_STORY_X_S_X_STORY25 = 26;
+
+	public const int iCRI_STORY_X_S_X_STORY26 = 27;
+
+	public const int iCRI_STORY_X_S_X_STORY27 = 28;
+
+	public const int iCRI_STORY_X_S_X_STORY28 = 29;
+
+	public const int iCRI_STORY_X_S_X_STORY29 = 30;
+
+	public const int iCRI_STORY_X_S_X_STORY30 = 31;
+
+	public const STORY_X CRI_STORY_X_CUENUM = STORY_X.CRI_STORY_X_CUENUM;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY01 = STORY_X.CRI_STORY_X_S_X_STORY01;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY02 = STORY_X.CRI_STORY_X_S_X_STORY02;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY03 = STORY_X.CRI_STORY_X_S_X_STORY03;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY04 = STORY_X.CRI_STORY_X_S_X_STORY04;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY05 = STORY_X.CRI_STORY_X_S_X_STORY05;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY06 = STORY_X.CRI_STORY_X_S_X_STORY06;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY07 = STORY_X.CRI_STORY_X_S_X_STORY07;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY08 = STORY_X.CRI_STORY_X_S_X_STORY08;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY09 = STORY_X.CRI_STORY_X_S_X_STORY09;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY10 = STORY_X.CRI_STORY_X_S_X_STORY10;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY11 = STORY_X.CRI_STORY_X_S_X_STORY11;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY12 = STORY_X.CRI_STORY_X_S_X_STORY12;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY13 = STORY_X.CRI_STORY_X_S_X_STORY13;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY14 = STORY_X.CRI_STORY_X_S_X_STORY14;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY15 = STORY_X.CRI_STORY_X_S_X_STORY15;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY16 = STORY_X.CRI_STORY_X_S_X_STORY16;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY17 = STORY_X.CRI_STORY_X_S_X_STORY17;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY18 = STORY_X.CRI_STORY_X_S_X_STORY18;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY19 = STORY_X.CRI_STORY_X_S_X_STORY19;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY20 = STORY_X.CRI_STORY_X_S_X_STORY20;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY21 = STORY_X.CRI_STORY_X_S_X_STORY21;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY22 = STORY_X.CRI_STORY_X_S_X_STORY22;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY23 = STORY_X.CRI_STORY_X_S_X_STORY23;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY24 = STORY_X.CRI_STORY_X_S_X_STORY24;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY25 = STORY_X.CRI_STORY_X_S_X_STORY25;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY26 = STORY_X.CRI_STORY_X_S_X_STORY26;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY27 = STORY_X.CRI_STORY_X_S_X_STORY27;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY28 = STORY_X.CRI_STORY_X_S_X_STORY28;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY29 = STORY_X.CRI_STORY_X_CUENUM;
+
+	public const STORY_X CRI_STORY_X_S_X_STORY30 = STORY_X.CRI_STORY_X_S_X_STORY30;
+}

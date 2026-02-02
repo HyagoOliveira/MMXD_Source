@@ -1,0 +1,10 @@
+public static class WeaponSE03i
+{
+	public const int iCRI_WEAPONSE03_CUENUM = 1;
+
+	public const int iCRI_WEAPONSE03_WEP_JET_ENERGY03 = 131;
+
+	public const WeaponSE03 CRI_WEAPONSE03_CUENUM = WeaponSE03.CRI_WEAPONSE03_CUENUM;
+
+	public const WeaponSE03 CRI_WEAPONSE03_WEP_JET_ENERGY03 = WeaponSE03.CRI_WEAPONSE03_WEP_JET_ENERGY03;
+}

@@ -1,0 +1,10 @@
+public static class SystemSE02i
+{
+	public const int iCRI_SYSTEMSE02_CUENUM = 1;
+
+	public const int iCRI_SYSTEMSE02_SYS_HALLOWEEN01 = 128;
+
+	public const SystemSE02 CRI_SYSTEMSE02_CUENUM = SystemSE02.CRI_SYSTEMSE02_CUENUM;
+
+	public const SystemSE02 CRI_SYSTEMSE02_SYS_HALLOWEEN01 = SystemSE02.CRI_SYSTEMSE02_SYS_HALLOWEEN01;
+}

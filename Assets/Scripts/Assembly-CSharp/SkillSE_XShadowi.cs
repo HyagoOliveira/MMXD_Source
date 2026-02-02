@@ -1,0 +1,38 @@
+public static class SkillSE_XShadowi
+{
+	public const int iCRI_SKILLSE_XSHADOW_CUENUM = 8;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_GIGA01 = 1;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_GIGA02_LP = 2;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_RING_STOP = 8;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_RING_LP = 7;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_GIGA02_STOP = 3;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_SHOT = 5;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_CHARA01 = 40;
+
+	public const int iCRI_SKILLSE_XSHADOW_XS_START01 = 80;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_CUENUM = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_CUENUM;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_GIGA01 = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_GIGA01;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_GIGA02_LP = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_GIGA02_LP;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_RING_STOP = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_CUENUM;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_RING_LP = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_RING_LP;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_GIGA02_STOP = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_GIGA02_STOP;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_SHOT = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_SHOT;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_CHARA01 = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_CHARA01;
+
+	public const SkillSE_XShadow CRI_SKILLSE_XSHADOW_XS_START01 = SkillSE_XShadow.CRI_SKILLSE_XSHADOW_XS_START01;
+}

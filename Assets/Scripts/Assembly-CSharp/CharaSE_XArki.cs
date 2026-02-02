@@ -1,0 +1,46 @@
+public static class CharaSE_XArki
+{
+	public const int iCRI_CHARASE_XARK_CUENUM = 10;
+
+	public const int iCRI_CHARASE_XARK_XA_JUMP = 1;
+
+	public const int iCRI_CHARASE_XARK_XA_JUMP_HIGH = 2;
+
+	public const int iCRI_CHARASE_XARK_XA_CHAKUCHI = 3;
+
+	public const int iCRI_CHARASE_XARK_XA_DASH = 4;
+
+	public const int iCRI_CHARASE_XARK_XA_DASHEND = 5;
+
+	public const int iCRI_CHARASE_XARK_XA_KABEPETA = 6;
+
+	public const int iCRI_CHARASE_XARK_XA_KABEKERI = 7;
+
+	public const int iCRI_CHARASE_XARK_XA_TELEPORT_IN = 8;
+
+	public const int iCRI_CHARASE_XARK_XA_TELEPORT_OUT = 9;
+
+	public const int iCRI_CHARASE_XARK_XA_FOOT = 10;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_CUENUM = CharaSE_XArk.CRI_CHARASE_XARK_CUENUM;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_JUMP = CharaSE_XArk.CRI_CHARASE_XARK_XA_JUMP;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_JUMP_HIGH = CharaSE_XArk.CRI_CHARASE_XARK_XA_JUMP_HIGH;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_CHAKUCHI = CharaSE_XArk.CRI_CHARASE_XARK_XA_CHAKUCHI;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_DASH = CharaSE_XArk.CRI_CHARASE_XARK_XA_DASH;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_DASHEND = CharaSE_XArk.CRI_CHARASE_XARK_XA_DASHEND;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_KABEPETA = CharaSE_XArk.CRI_CHARASE_XARK_XA_KABEPETA;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_KABEKERI = CharaSE_XArk.CRI_CHARASE_XARK_XA_KABEKERI;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_TELEPORT_IN = CharaSE_XArk.CRI_CHARASE_XARK_XA_TELEPORT_IN;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_TELEPORT_OUT = CharaSE_XArk.CRI_CHARASE_XARK_XA_TELEPORT_OUT;
+
+	public const CharaSE_XArk CRI_CHARASE_XARK_XA_FOOT = CharaSE_XArk.CRI_CHARASE_XARK_CUENUM;
+}

@@ -1,0 +1,25 @@
+public enum SlashType
+{
+	None = -1,
+	StandSlash1 = 0,
+	StandSlash2 = 1,
+	StandSlash3 = 2,
+	StandSlash4 = 3,
+	StandSlash5 = 4,
+	Reserved3 = 5,
+	WalkSlash1 = 6,
+	WalkSlash2 = 7,
+	DashSlash1 = 8,
+	CrouchSlash1 = 9,
+	JumpSlash1 = 10,
+	WallGrabSlash = 11,
+	Reserved5 = 12,
+	Reserved6 = 13,
+	Reserved7 = 14,
+	Reserved8 = 15,
+	Reserved9 = 16,
+	Reserved10 = 17,
+	Reserved11 = 18,
+	Skill = 19,
+	MAX_SLASH_TYPE = 20
+}

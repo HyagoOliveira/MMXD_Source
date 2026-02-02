@@ -1,0 +1,7 @@
+public enum BGMe2
+{
+	NONE = 0,
+	CRI_BGME2_CUENUM = 2,
+	CRI_BGME2_BGM_SYS_E2 = 1,
+	CRI_BGME2_BGM_SYS_E2H = 7
+}

@@ -1,0 +1,6 @@
+public enum EnemySE03
+{
+	NONE = 0,
+	CRI_ENEMYSE03_CUENUM = 1,
+	CRI_ENEMYSE03_DAMMY = 0
+}

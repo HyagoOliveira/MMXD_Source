@@ -1,0 +1,46 @@
+public static class SkillSE_XArki
+{
+	public const int iCRI_SKILLSE_XARK_CUENUM = 10;
+
+	public const int iCRI_SKILLSE_XARK_XA_CRY01 = 1;
+
+	public const int iCRI_SKILLSE_XARK_XA_KARA01 = 3;
+
+	public const int iCRI_SKILLSE_XARK_XA_KARA02 = 4;
+
+	public const int iCRI_SKILLSE_XARK_XA_KARA03_LP = 5;
+
+	public const int iCRI_SKILLSE_XARK_XA_KARA03_STOP = 6;
+
+	public const int iCRI_SKILLSE_XARK_XA_ARK02_LP = 9;
+
+	public const int iCRI_SKILLSE_XARK_XA_ARK02_STOP = 10;
+
+	public const int iCRI_SKILLSE_XARK_XA_ARK01 = 8;
+
+	public const int iCRI_SKILLSE_XARK_XA_KINSOKU = 11;
+
+	public const int iCRI_SKILLSE_XARK_XA_CHARA01 = 40;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_CUENUM = SkillSE_XArk.CRI_SKILLSE_XARK_CUENUM;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_CRY01 = SkillSE_XArk.CRI_SKILLSE_XARK_XA_CRY01;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_KARA01 = SkillSE_XArk.CRI_SKILLSE_XARK_XA_KARA01;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_KARA02 = SkillSE_XArk.CRI_SKILLSE_XARK_XA_KARA02;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_KARA03_LP = SkillSE_XArk.CRI_SKILLSE_XARK_XA_KARA03_LP;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_KARA03_STOP = SkillSE_XArk.CRI_SKILLSE_XARK_XA_KARA03_STOP;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_ARK02_LP = SkillSE_XArk.CRI_SKILLSE_XARK_XA_ARK02_LP;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_ARK02_STOP = SkillSE_XArk.CRI_SKILLSE_XARK_CUENUM;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_ARK01 = SkillSE_XArk.CRI_SKILLSE_XARK_XA_ARK01;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_KINSOKU = SkillSE_XArk.CRI_SKILLSE_XARK_XA_KINSOKU;
+
+	public const SkillSE_XArk CRI_SKILLSE_XARK_XA_CHARA01 = SkillSE_XArk.CRI_SKILLSE_XARK_XA_CHARA01;
+}

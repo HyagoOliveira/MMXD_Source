@@ -1,0 +1,46 @@
+public static class CharaSE_AXLi
+{
+	public const int iCRI_CHARASE_AXL_CUENUM = 10;
+
+	public const int iCRI_CHARASE_AXL_A_JUMP = 1;
+
+	public const int iCRI_CHARASE_AXL_A_JUMP_HIGH = 2;
+
+	public const int iCRI_CHARASE_AXL_A_CHAKUCHI = 3;
+
+	public const int iCRI_CHARASE_AXL_A_DASH = 4;
+
+	public const int iCRI_CHARASE_AXL_A_DASHEND = 5;
+
+	public const int iCRI_CHARASE_AXL_A_KABEPETA = 6;
+
+	public const int iCRI_CHARASE_AXL_A_KABEKERI = 7;
+
+	public const int iCRI_CHARASE_AXL_A_TELEPORT_IN = 8;
+
+	public const int iCRI_CHARASE_AXL_A_TELEPORT_OUT = 9;
+
+	public const int iCRI_CHARASE_AXL_A_FOOT = 10;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_CUENUM = CharaSE_AXL.CRI_CHARASE_AXL_CUENUM;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_JUMP = CharaSE_AXL.CRI_CHARASE_AXL_A_JUMP;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_JUMP_HIGH = CharaSE_AXL.CRI_CHARASE_AXL_A_JUMP_HIGH;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_CHAKUCHI = CharaSE_AXL.CRI_CHARASE_AXL_A_CHAKUCHI;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_DASH = CharaSE_AXL.CRI_CHARASE_AXL_A_DASH;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_DASHEND = CharaSE_AXL.CRI_CHARASE_AXL_A_DASHEND;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_KABEPETA = CharaSE_AXL.CRI_CHARASE_AXL_A_KABEPETA;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_KABEKERI = CharaSE_AXL.CRI_CHARASE_AXL_A_KABEKERI;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_TELEPORT_IN = CharaSE_AXL.CRI_CHARASE_AXL_A_TELEPORT_IN;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_TELEPORT_OUT = CharaSE_AXL.CRI_CHARASE_AXL_A_TELEPORT_OUT;
+
+	public const CharaSE_AXL CRI_CHARASE_AXL_A_FOOT = CharaSE_AXL.CRI_CHARASE_AXL_CUENUM;
+}

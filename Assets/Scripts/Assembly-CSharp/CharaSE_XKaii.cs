@@ -1,0 +1,46 @@
+public static class CharaSE_XKaii
+{
+	public const int iCRI_CHARASE_XKAI_CUENUM = 10;
+
+	public const int iCRI_CHARASE_XKAI_XK_FOOT = 10;
+
+	public const int iCRI_CHARASE_XKAI_XK_JUMP = 1;
+
+	public const int iCRI_CHARASE_XKAI_XK_JUMP_HIGH = 2;
+
+	public const int iCRI_CHARASE_XKAI_XK_DASH = 4;
+
+	public const int iCRI_CHARASE_XKAI_XK_CHAKUCHI = 3;
+
+	public const int iCRI_CHARASE_XKAI_XK_DASHEND = 5;
+
+	public const int iCRI_CHARASE_XKAI_XK_KABEPETA = 6;
+
+	public const int iCRI_CHARASE_XKAI_XK_TELEPORT_IN = 8;
+
+	public const int iCRI_CHARASE_XKAI_XK_TELEPORT_OUT = 9;
+
+	public const int iCRI_CHARASE_XKAI_XK_KABEKERI = 7;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_CUENUM = CharaSE_XKai.CRI_CHARASE_XKAI_CUENUM;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_FOOT = CharaSE_XKai.CRI_CHARASE_XKAI_CUENUM;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_JUMP = CharaSE_XKai.CRI_CHARASE_XKAI_XK_JUMP;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_JUMP_HIGH = CharaSE_XKai.CRI_CHARASE_XKAI_XK_JUMP_HIGH;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_DASH = CharaSE_XKai.CRI_CHARASE_XKAI_XK_DASH;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_CHAKUCHI = CharaSE_XKai.CRI_CHARASE_XKAI_XK_CHAKUCHI;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_DASHEND = CharaSE_XKai.CRI_CHARASE_XKAI_XK_DASHEND;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_KABEPETA = CharaSE_XKai.CRI_CHARASE_XKAI_XK_KABEPETA;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_TELEPORT_IN = CharaSE_XKai.CRI_CHARASE_XKAI_XK_TELEPORT_IN;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_TELEPORT_OUT = CharaSE_XKai.CRI_CHARASE_XKAI_XK_TELEPORT_OUT;
+
+	public const CharaSE_XKai CRI_CHARASE_XKAI_XK_KABEKERI = CharaSE_XKai.CRI_CHARASE_XKAI_XK_KABEKERI;
+}

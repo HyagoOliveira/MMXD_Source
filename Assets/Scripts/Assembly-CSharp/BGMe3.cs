@@ -1,0 +1,7 @@
+public enum BGMe3
+{
+	NONE = 0,
+	CRI_BGME3_CUENUM = 2,
+	CRI_BGME3_BGM_ST_E3 = 3,
+	CRI_BGME3_BGM_SYS_E3 = 1
+}
