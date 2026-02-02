@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee076d664b605e9af1b63172fbbb2f4, type: 3}
+  m_Name: ChargeData
+  m_EditorClassIdentifier:
+  listChargeDatas:
+  - sCharacterStr: ch001_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_chargeshot_000_start
+    sChargeLV2FX: fxduring_chargeshot_001_loop
+    sChargeLV3FX: fxduring_chargeshot_002_loop
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch008_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_plasmachargeshot_000
+    sChargeLV2FX: fxduring_plasmachargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch008_001
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_plasmachargeshot_000
+    sChargeLV2FX: fxduring_plasmachargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch009_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_doublechargeshot_000
+    sChargeLV2FX: fxduring_doublechargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 5
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch023_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_chargeshot_000_start
+    sChargeLV2FX: fxduring_chargeshot_001_loop
+    sChargeLV3FX: fxduring_chargeshot_002_loop
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch018_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_rockbuster_000
+    sChargeLV2FX: fxduring_rockbuster_001
+    sChargeLV3FX: fxduring_rockbuster_002
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch016_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_bbuster_000
+    sChargeLV2FX: fxduring_bbuster_001
+    sChargeLV3FX: fxduring_bbuster_002
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch025_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_srbuster_001
+    sChargeLV2FX: fxduring_rockbuster_002
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch033_000
+    sABDlPath: prefab/fx/fxduring_zxbuster
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_zxbuster_000
+    sChargeLV2FX: fxduring_zxbuster_001
+    sChargeLV3FX: fxduring_zxbuster_001
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch034_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX: fxduring_ch034_00_000
+    sChargeLV1FX: fxduring_ch034_00_001
+    sChargeLV2FX: fxduring_ch034_00_001
+    sChargeLV3FX: fxduring_ch034_00_001
+    sChargeStartFX2: fxduring_ch034_01_000
+    sChargeLV1FX2: fxduring_ch034_01_001
+    sChargeLV2FX2: fxduring_ch034_01_001
+    sChargeLV3FX2: fxduring_ch034_01_001
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch043_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_Thirddoublechargeshot_000
+    sChargeLV2FX: fxduring_Thirddoublechargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch035_0001
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_pcopy_x_chargeshot_000
+    sChargeLV2FX: fxduring_pcopy_x_chargeshot_002
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch035_0002
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_pcopy_x_chargeshot_000
+    sChargeLV2FX: fxduring_pcopy_x_chargeshot_003
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch035_0003
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_pcopy_x_chargeshot_000
+    sChargeLV2FX: fxduring_pcopy_x_chargeshot_004
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch035_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_pcopy_x_chargeshot_000
+    sChargeLV2FX: fxduring_pcopy_x_chargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch049_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_exechargeshot_000
+    sChargeLV2FX: fxduring_exechargeshot_001
+    sChargeLV3FX: fxduring_exechargeshot_000
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch067_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_ch067_chargeshot_000_start
+    sChargeLV2FX: fxduring_ch067_chargeshot_001_loop
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch021_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_fortebuster_000
+    sChargeLV2FX: fxduring_fortebuster_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch074_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_kaichargeshot_000
+    sChargeLV2FX: fxduring_kaichargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch062_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 1
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_divechargeshot_000
+    sChargeLV2FX: fxduring_divechargeshot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch079_000
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_exechargeshot_000
+    sChargeLV2FX: fxduring_exechargeshot_001
+    sChargeLV3FX: fxduring_exechargeshot_000
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: default
+    sABDlPath: prefab/fx/chargefx
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_chargeshot_000_start
+    sChargeLV2FX: fxduring_chargeshot_001_loop
+    sChargeLV3FX: fxduring_chargeshot_001_loop
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch124_000
+    sABDlPath: prefab/fx/fxduring_zxbuster
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_zxbuster_000
+    sChargeLV2FX: fxduring_zxbuster_001
+    sChargeLV3FX: fxduring_zxbuster_001
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch128_000
+    sABDlPath: prefab/fx/fxduring_FbeastShoot
+    FXRoot: 0
+    sChargeStartFX:
+    sChargeLV1FX: fxduring_FbeastShoot_000
+    sChargeLV2FX: fxduring_FbeastShoot_001
+    sChargeLV3FX:
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch143_000
+    sABDlPath: prefab/fx/fxduring_sxchargeshot
+    FXRoot: 0
+    sChargeStartFX: fxduring_SXchargeshot_000
+    sChargeLV1FX: fxduring_SXchargeshot_001
+    sChargeLV2FX: fxduring_SXchargeshot_002
+    sChargeLV3FX: fxduring_SXchargeshot_002
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
+  - sCharacterStr: ch142_000
+    sABDlPath: prefab/fx/fxduring_spx_chargeshot
+    FXRoot: 0
+    sChargeStartFX: fxduring_spx_chargeshot_000
+    sChargeLV1FX: fxduring_spx_chargeshot_001
+    sChargeLV2FX: fxduring_spx_chargeshot_002
+    sChargeLV3FX: fxduring_spx_chargeshot_002
+    sChargeStartFX2:
+    sChargeLV1FX2:
+    sChargeLV2FX2:
+    sChargeLV3FX2:
+    nUpdateInAdvanceLV1FX: 0
+    nUpdateInAdvanceLV2FX: 0
+    nUpdateInAdvanceLV3FX: 0
+    nUpdateInAdvanceLV1FX2: 0
+    nUpdateInAdvanceLV2FX2: 0
+    nUpdateInAdvanceLV3FX2: 0
