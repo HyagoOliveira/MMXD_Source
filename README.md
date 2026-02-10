@@ -48,7 +48,7 @@ Many sprites are in the `.asset` format. This is a Unity format and cannot be us
 
 To use them, we need to find the texture source.
 
-Open the file using a text editor and look for the first `texture:` key. Copy guid number:
+Open the file using a text editor and look for the first `texture:` key. Copy the guid number:
 
 ![Asset Sprite Texture Guid](/Docs/AssetSpriteTextureGuid.png "Asset Sprite Texture Guid")
 
@@ -56,6 +56,13 @@ On Unity, open the Quick Search Window using **Help > Quick Search** (`Alt + '`)
 
 ![Sprite Texture](/Docs/SpriteTexture.png "Sprite Texture")
 
-If the original Texture is a Sprite Atlas and you need this image as a single file, you will need to create a new Sprite in this Texture Atlas, using the same name, pivot and border. After that, click in the new created sprite, go to the Context Menu and Extract this sprite as a new file:
+Sometime the Sprite will be in a Sprite Atlas Texture, with other ones. If you just need a single sprite from this atlas, you should extract it.
 
-![Extract_Axl_x7_Sprite](/Docs/Extract_Axl_x7_Sprite.png "Extract Axl x7 Sprite")
+First, create a Sprite inside this Texture Atlas, using the same name, pivot and border from the original one.
+
+![MMX_Icon](/Docs/MMX_Icon.png "MMX_Icon")
+![MMX_Sprite](/Docs/MMX_Sprite.png "MMX_Sprite")
+
+After that, click in the new created sprite, go to the Context Menu and Extract this sprite as a new file:
+
+![MMX_Sprite_Extract](/Docs/MMX_Sprite_Extract.png "MMX_Sprite_Extract")
