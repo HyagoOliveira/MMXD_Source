@@ -56,13 +56,12 @@ On Unity, open the Quick Search Window using **Help > Quick Search** (`Alt + '`)
 
 ![Sprite Texture](/Docs/SpriteTexture.png "Sprite Texture")
 
-Sometime the Sprite will be in a Sprite Atlas Texture, with other ones. If you just need a single sprite from this atlas, you should extract it.
+Most of the time, the Sprite will be in a Sprite Atlas Texture with other ones.
 
-First, create a Sprite inside this Texture Atlas, using the same name, pivot and border from the original one.
+### Extract a Sprite
 
-![MMX_Icon](/Docs/MMX_Icon.png "MMX_Icon")
-![MMX_Sprite](/Docs/MMX_Sprite.png "MMX_Sprite")
+Select a Sprite. It can be a single Sprite asset or a Sprite inside a Sprite Sheet (a sprite asset with multiple sprites).
 
-After that, click in the new created sprite, go to the Context Menu and Extract this sprite as a new file:
+Go to the Context Menu and Extract this sprite as a new file:
 
 ![MMX_Sprite_Extract](/Docs/MMX_Sprite_Extract.png "MMX_Sprite_Extract")
