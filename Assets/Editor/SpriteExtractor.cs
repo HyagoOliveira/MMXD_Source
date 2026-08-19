@@ -1,7 +1,7 @@
+using System.Drawing;
+using System.IO;
 using UnityEditor;
 using UnityEngine;
-using System.IO;
-using System.Drawing;
 
 namespace MMXP.Editor
 {
@@ -28,7 +28,7 @@ namespace MMXP.Editor
 
         private static void ExtractSprite(Sprite originalSprite)
         {
-            var path = AssetDatabase.GetAssetPath(originalSprite);
+            var path = AssetDatabase.GetAssetPath(originalSprite.texture);
             var extension = Path.GetExtension(path).ToLowerInvariant();
             var isInvalidFile = extension.Equals(".psd");
 
@@ -61,13 +61,22 @@ namespace MMXP.Editor
             AssetDatabase.Refresh();
             AssetDatabase.ImportAsset(newAssetPath);
 
+            var normalizedPivot = new Vector2(
+                originalSprite.pivot.x / spriteRect.width,
+                originalSprite.pivot.y / spriteRect.height
+            );
+            var settings = new TextureImporterSettings();
             var importer = AssetImporter.GetAtPath(newAssetPath) as TextureImporter;
 
+            importer.ReadTextureSettings(settings);
+            settings.spriteAlignment = (int)SpriteAlignment.Custom;
+            settings.spritePivot = normalizedPivot;
+            settings.spriteBorder = originalSprite.border;
+
+            importer.SetTextureSettings(settings);
             importer.textureType = TextureImporterType.Sprite;
             importer.spriteImportMode = SpriteImportMode.Single;
             importer.filterMode = originalSprite.texture.filterMode;
-            importer.spritePivot = originalSprite.pivot;
-            importer.spriteBorder = originalSprite.border;
             importer.spritePixelsPerUnit = originalSprite.pixelsPerUnit;
 
             EditorUtility.SetDirty(importer);
